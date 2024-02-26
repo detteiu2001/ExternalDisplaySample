@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExternalDisplaySample</string>
+    <string name="id">id: %d</string>
+    <string name="displayInfoHint">ディスプレイ情報</string>
+    <string name="countButtonLabel">カウント</string>
+    <string name="unknownHint">不明</string>
+    <string name="ExternalDisplayHint">外部ディスプレイ</string>
+</resources>
